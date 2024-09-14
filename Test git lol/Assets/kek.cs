@@ -6,11 +6,16 @@ public class kek : MonoBehaviour
 {
     void Start()
     {
-        
+        Satana();
     }
 
     void Update()
     {
         Debug.Log("AAAAAAAAA");
+    }
+
+    void Satana()
+    {
+        Debug.Log("Satana");
     }
 }
