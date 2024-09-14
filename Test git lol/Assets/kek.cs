@@ -18,5 +18,6 @@ public class kek : MonoBehaviour
     void Satana()
     {
         Debug.Log("Satana");
+        Debug.Log("asdkasodiasopdiopasidopasipodiasopdiopasidopasidopaisopadisopaisopdiaospio");
     }
 }
